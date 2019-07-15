@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Class-Path: lib/jetty-http-9.4.12.v20180830.jar lib/htmlunit-cssparser-1.2.0.j
+ ar commons-logging-1.2.jar lib/commons-text-1.4.jar lib/commons-lang3-3.8.jar
+  lib/neko-htmlunit-2.33.jar lib/xercesImpl-2.12.0.jar lib/xalan-2.7.2.jar lib/commons
+ -codec-1.10.jar lib/websocket-common-9.4.12.v20180830.jar lib/xml-apis-1.4.01
+ .jar lib/jackson-databind-2.9.8.jar lib/httpmime-4.5.6.jar lib/jetty-client-9.4.1
+ 2.v20180830.jar lib/jetty-io-9.4.12.v20180830.jar lib/websocket-api-9.4.12.v2
+ 0180830.jar lib/jsoup-1.11.3.jar lib/httpcore-4.4.10.jar lib/websocket-client-9.4
+ .12.v20180830.jar lib/jackson-core-2.9.8.jar lib/commons-io-2.6.jar lib/serialize
+ r-2.7.2.jar lib/jackson-annotations-2.9.0.jar lib/jetty-xml-9.4.12.v20180830.
+ jar htmlunit-core-js-2.33.jar lib/jetty-util-9.4.12.v20180830.jar lib/httpcli
+ ent-4.5.6.jar lib/htmlunit-2.33.jar lib/commons-net-3.6.jar
+Main-Class: cn.com.yangzhenyu.iconfont.App
+
+
